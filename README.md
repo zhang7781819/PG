@@ -22,6 +22,7 @@ https://raw.nuaa.cf/fish2018/PG/main/pg.20241216-0904.zip
 https://raw.kkgithub.com/fish2018/PG/main/pg.20241216-0904.zip
 https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
 https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
 https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
 https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
 https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
