@@ -16,22 +16,22 @@ http://www.fish2018.us.kg/p/jsm.json
 
 ## PG包下载地址
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20241216-0904.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20241216-0904.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20241216-0904.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241216-0904.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20241217-1933.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20241217-1933.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20241217-1933.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241217-1933.zip
 ```
 
 ## pg包今日更新内容
@@ -47,6 +47,7 @@ PG包[README.txt](http://www.fish2018.us.kg/p/README.txt)
 今日更新内容：(更多内容阅读zip内的README.txt)
 1.大幅优化内置肥羊直播，修复可能引起不必要的麻烦的代码。需要重新载入allinone
 2.托肥羊的福，ysp改为gaomatv，需要重新载入allinone
+3.因115系统升级，扫码方式可能无法看到自己网盘内容，需要抓取网页版的cookie（包含KID字段）然后黏贴cookie到网盘设置-》115设置
 ```
 
 ## tgsearch包下载地址
